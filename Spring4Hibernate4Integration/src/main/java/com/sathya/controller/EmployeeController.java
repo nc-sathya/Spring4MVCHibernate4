@@ -16,7 +16,7 @@ import com.sathya.entity.Employee;
 import com.sathya.service.EmployeeService;
 
 /**
- * @author Ranga Reddy
+ * @author Sathya
  * @version 1.0
  */
 @Controller
